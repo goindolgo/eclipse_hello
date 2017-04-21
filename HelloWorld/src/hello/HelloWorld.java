@@ -6,6 +6,8 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		// 두번째 커밋을 위한 코드 추가
 		System.out.println("2nd commit message.");
+		// code added for 3rd commit
+		System.out.println("3rd commit message.");
 	}
 
 }
