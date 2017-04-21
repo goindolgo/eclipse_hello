@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("2nd commit message.");
 		// code added for 3rd commit
 		System.out.println("3rd commit message.");
+		// hotfix branch에서 추가
 	}
 
 }
